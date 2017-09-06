@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Users\APRENDIZ\Desktop\ASP\Publicado</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CAD.dll">
+      <publishTime>08/15/2017 11:19:40</publishTime>
+    </File>
+    <File Include="bin/CAD.pdb">
+      <publishTime>08/10/2017 17:51:37</publishTime>
+    </File>
+    <File Include="bin/DTO.dll">
+      <publishTime>08/15/2017 09:51:47</publishTime>
+    </File>
+    <File Include="bin/DTO.pdb">
+      <publishTime>08/10/2017 17:51:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/SSCO - Crystal.dll">
+      <publishTime>08/15/2017 11:19:44</publishTime>
+    </File>
+    <File Include="bin/SSCO - Crystal.pdb">
+      <publishTime>08/10/2017 17:51:45</publishTime>
+    </File>
+    <File Include="css/alertify.css">
+      <publishTime>08/10/2017 10:45:55</publishTime>
+    </File>
+    <File Include="css/alertify.min.css">
+      <publishTime>08/10/2017 10:45:55</publishTime>
+    </File>
+    <File Include="css/alertify.rtl.css">
+      <publishTime>08/10/2017 10:45:55</publishTime>
+    </File>
+    <File Include="css/alertify.rtl.min.css">
+      <publishTime>08/10/2017 10:45:55</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>08/01/2017 23:08:20</publishTime>
+    </File>
+    <File Include="css/themes/bootstrap.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/bootstrap.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/bootstrap.rtl.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/bootstrap.rtl.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/default.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/default.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/default.rtl.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/default.rtl.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/semantic.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/semantic.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/semantic.rtl.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="css/themes/semantic.rtl.min.css">
+      <publishTime>08/10/2017 10:47:47</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/15/2017 10:56:16</publishTime>
+    </File>
+    <File Include="html/actividades.html">
+      <publishTime>07/14/2017 01:16:38</publishTime>
+    </File>
+    <File Include="html/asignacion_entregables.html">
+      <publishTime>08/12/2017 11:17:12</publishTime>
+    </File>
+    <File Include="html/asignar_miembros.aspx">
+      <publishTime>08/12/2017 11:15:55</publishTime>
+    </File>
+    <File Include="html/cursos.html">
+      <publishTime>07/14/2017 01:16:32</publishTime>
+    </File>
+    <File Include="html/documentos.aspx">
+      <publishTime>07/04/2017 16:23:19</publishTime>
+    </File>
+    <File Include="html/documentos.html">
+      <publishTime>07/14/2017 01:16:26</publishTime>
+    </File>
+    <File Include="html/entregables.html">
+      <publishTime>08/12/2017 11:16:02</publishTime>
+    </File>
+    <File Include="html/estados_entregables.html">
+      <publishTime>08/12/2017 11:16:06</publishTime>
+    </File>
+    <File Include="html/estados_proyecto.html">
+      <publishTime>08/12/2017 11:16:53</publishTime>
+    </File>
+    <File Include="html/fases_desarrollo.html">
+      <publishTime>08/12/2017 11:16:13</publishTime>
+    </File>
+    <File Include="html/grupos.aspx">
+      <publishTime>08/12/2017 11:16:19</publishTime>
+    </File>
+    <File Include="html/grupos.html">
+      <publishTime>07/14/2017 01:16:21</publishTime>
+    </File>
+    <File Include="html/profesiones.aspx">
+      <publishTime>08/12/2017 11:16:23</publishTime>
+    </File>
+    <File Include="html/proyectos.aspx">
+      <publishTime>08/12/2017 11:16:29</publishTime>
+    </File>
+    <File Include="html/proyectos.html">
+      <publishTime>08/01/2017 23:05:30</publishTime>
+    </File>
+    <File Include="html/roles.aspx">
+      <publishTime>08/12/2017 11:16:33</publishTime>
+    </File>
+    <File Include="html/tareas.aspx">
+      <publishTime>08/15/2017 07:56:59</publishTime>
+    </File>
+    <File Include="html/tareas.html">
+      <publishTime>08/01/2017 23:05:42</publishTime>
+    </File>
+    <File Include="html/temas.html">
+      <publishTime>07/14/2017 01:15:56</publishTime>
+    </File>
+    <File Include="html/usuarios.aspx">
+      <publishTime>08/15/2017 10:03:05</publishTime>
+    </File>
+    <File Include="images/grupo.png">
+      <publishTime>07/12/2017 18:29:16</publishTime>
+    </File>
+    <File Include="images/proyectos.png">
+      <publishTime>07/12/2017 18:29:16</publishTime>
+    </File>
+    <File Include="images/usuario.png">
+      <publishTime>07/12/2017 18:29:16</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>07/14/2017 01:10:43</publishTime>
+    </File>
+    <File Include="js/alertify.js">
+      <publishTime>08/10/2017 10:48:05</publishTime>
+    </File>
+    <File Include="js/alertify.min.js">
+      <publishTime>08/10/2017 10:48:05</publishTime>
+    </File>
+    <File Include="js/field-validations.js">
+      <publishTime>08/01/2017 22:55:05</publishTime>
+    </File>
+    <File Include="js/field_validation.js">
+      <publishTime>08/10/2017 17:50:17</publishTime>
+    </File>
+    <File Include="js/jquery-3.2.1.min.js">
+      <publishTime>08/10/2017 10:48:14</publishTime>
+    </File>
+    <File Include="js/validaciones-campos.js">
+      <publishTime>07/14/2017 00:59:31</publishTime>
+    </File>
+    <File Include="js/validation_script.js">
+      <publishTime>08/15/2017 10:27:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/04/2017 16:16:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/15/2017 11:19:47</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

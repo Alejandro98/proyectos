@@ -1,0 +1,35 @@
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\bin\Debug\CAD.dll
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\bin\Debug\CAD.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\bin\Debug\DTO.dll
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\bin\Debug\DTO.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\obj\Debug\CAD.dll
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\CAD\obj\Debug\CAD.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\bin\Debug\CAD.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\bin\Debug\CAD.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\bin\Debug\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\bin\Debug\DTO.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\obj\Debug\CAD.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\CAD\obj\Debug\CAD.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.pdb
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.dll
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\CAD.pdb
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.dll
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\bin\Debug\DTO.pdb
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.dll
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\CAD\obj\Debug\CAD.pdb

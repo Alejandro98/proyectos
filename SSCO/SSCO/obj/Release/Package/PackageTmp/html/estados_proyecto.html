@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>Software de Seguimiento</title>
+			<link rel="stylesheet" href="../css/style.css">
+		</head>
+		<body>
+			<ul>
+				<li><a href="usuarios.aspx">Usuario</a></li>
+				<li><a href="roles.aspx">Roles</a></li>
+				<li><a href="profesiones.aspx">Profesiones</a></li>
+				<li><a href="grupos.aspx">Grupos</a></li>
+				<li><a href="asignar_miembros.aspx">Miembros</a></li>
+				<li><a href="proyectos.aspx">Proyectos</a></li>
+				<li><a href="estados_proyecto.html" class="active">Estados Proyecto</a></li>
+				<li><a href="fases_desarrollo.html">Fases Desarrollo</a></li>
+				<li><a href="tareas.aspx">Tareas</a></li>
+				<li><a href="entregables.html">Entregables</a></li>
+				<li><a href="asignacion_entregables.html">Asignación Entregables</a></li>
+				<li><a href="estados_entregables.html">Estados Entregables</a></li>	
+			</ul>
+			<div class="content">
+				<form class="basic" method="post" action="#">
+					<div class="title">
+						<h1>Gestión - Estados del Proyecto</h1>
+					</div>
+					<div class="form">
+						<label>
+							<span>Código</span>
+							<input type="code" name="code">
+						</label>
+					</div>
+					<div class="form">
+						<label>
+							<span>Nombre</span>
+							<input type="text" name="name">
+						</label>
+					</div>
+					<div class="form">
+						<label>
+							<span>Proyecto</span>
+							<input type="code" name="proyecto">
+						</label>
+					</div>
+					<div class="form_button">
+						<button type="submit">Crear</button>
+						<button type="submit">Deshacer</button>
+                    </div>
+                    <!--Lista automática-->
+				</form>
+			</div>
+		</body>
+	</html>

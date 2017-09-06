@@ -1,0 +1,15 @@
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\bin\Release\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\bin\Release\DTO.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Release\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Release\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\bin\Release\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\bin\Release\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\bin\Release\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\bin\Release\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Release\DTO.pdb

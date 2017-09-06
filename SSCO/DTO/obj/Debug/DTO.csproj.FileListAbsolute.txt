@@ -1,0 +1,25 @@
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\DTO\bin\Debug\DTO.dll
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\DTO\bin\Debug\DTO.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\DTO\obj\Debug\DTO.dll
+c:\users\usuario\documents\visual studio 2015\Projects\SSCO - Crystal\DTO\obj\Debug\DTO.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\bin\Debug\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\bin\Debug\DTO.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Debug\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\DTO\obj\Debug\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.pdb
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.dll
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\DTO\bin\Debug\DTO.pdb
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.dll
+C:\Users\Alejo\Desktop\ASP\SSCO - Crystal\DTO\obj\Debug\DTO.pdb

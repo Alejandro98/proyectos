@@ -1,0 +1,72 @@
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\csc.exe
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\vbc.exe
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll.config
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\CAD.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\DTO.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\CAD.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\DTO.pdb
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.dll
+C:\Users\aleja\Desktop\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\csc.exe
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\vbc.exe
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll.config
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\CAD.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\DTO.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\CAD.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\DTO.pdb
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.dll
+C:\Users\aleja\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\csc.exe
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\vbc.exe
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll.config
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\SSCO - Crystal.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\CAD.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\DTO.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\CAD.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\DTO.pdb
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.dll
+C:\Users\APRENDIZ\Desktop\ASP\SSCO - Crystal\SSCO - Crystal\obj\Release\SSCO - Crystal.pdb
